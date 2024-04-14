@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.banner{
+    background-image: url("FUNDO.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-light a.navbar-brand {
+    color: #FFEBD2;
+    font-size: 40px;
+}
+
+.navbar-light .navbar-nav a.nav-link{
+    color: #ffebd2;
+    font-size: 20px;
+}
